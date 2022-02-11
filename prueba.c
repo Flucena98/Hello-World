@@ -54,7 +54,7 @@ int main(){
       printf ("\nPues deja de leer esto");
       break;
     }
-       case 7:{
+     case 7:{
       printf ("\nDebes hacerlo cual racimo de uvas para que esta opción sea correcta");
       printf("\n Toma una enlace en el que vas a encontrar una imagen bastante representativa");
       printf("\n https://es.dreamstime.com/viticultor-con-boca-abierta-come-racimo-de-uvas-hombre-barba-sostiene-rosadas-oscuras-aisladas-en-fondo-blanco-granjero-presenta-image207222611");
