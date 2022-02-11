@@ -5,9 +5,9 @@ int main(){
   char corcho = 'd';
   int opcion = 0;
 
-  printf ("Fernando");
+  printf ("David");
   printf ("\nQue?");
-  printf ("\nElige una opcion");
+  printf ("\nElige una opción");
   printf ("\n¿QUE PREFIERES QUE PASE?");
   printf ("\n1. LO DE SIEMPRE");
   printf ("\n2. QUE SEA UN BUEN DIA");
@@ -15,6 +15,7 @@ int main(){
   printf ("\n4. GANAR EL WORDLE");
   printf ("\n5. GANAR EL NERDLE");
   printf ("\n6. DEJAR DE HACER EL SUBNORMAL\n");
+  printf ("\n7. O PUEDES ELEGIR COMEMERME LOS HUEVOS POR DEBAJO DEL CULO");
   scanf("%d", &opcion);
 
   switch (opcion){
@@ -53,6 +54,12 @@ int main(){
       printf ("\nPues deja de leer esto");
       break;
     }
+     case 7:{
+      printf ("\nDebes hacerlo cual racimo de uvas para que esta opción sea correcta");
+      printf("\n Toma una enlace en el que vas a encontrar una imagen bastante representativa");
+      printf("\n https://es.dreamstime.com/viticultor-con-boca-abierta-come-racimo-de-uvas-hombre-barba-sostiene-rosadas-oscuras-aisladas-en-fondo-blanco-granjero-presenta-image207222611");
+      break;
+       }
     default:{
       printf("\nNi elegir una opcion sabes macho");
       break;
